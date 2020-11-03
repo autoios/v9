@@ -53,8 +53,8 @@ Maintainer: Developer by KidsAuto Team <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoPro_9.3.5-61.deb
-Size: 926298
-MD5sum: aaf2d93d7175b4eb079d3fdec5e27343
+Size: 923332
+MD5sum: d021df17decfcb54c4c7554f31a98ea2
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist, com.kidsautopro.kidsautosetting, com.kidsautopro.kidssupport
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
 
